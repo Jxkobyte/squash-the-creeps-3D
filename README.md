@@ -1,6 +1,8 @@
 # squash-the-creeps-3D
 3d version of my first game, built from the godot tutorial
 
+Controls: wasd + space, try to jump on the creeps head
+
 **How to run the game**
 
 Download Godot Engine: https://godotengine.org/
