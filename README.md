@@ -7,7 +7,7 @@ Controls: wasd + space, try to jump on the creeps head
 
 Download Godot Engine: https://godotengine.org/
 
-Click the my-first-2d-game.zip
+Click the zip file
 
 Click the download button in the top right
 
